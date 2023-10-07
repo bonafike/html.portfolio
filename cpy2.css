@@ -1,0 +1,265 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 100px;
+  background-position: center;
+  color: white;
+  background-image: url('p6.jpeg');
+  background-size: cover;
+  height: 108vh;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+
+}
+.home{
+    width: 400px;
+    float: left;
+    height: 10px;
+}
+.home ul{
+float: left;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.home ul li{
+list-style: none;
+margin-left: 72px;
+margin-top: 27px;
+font-size: 21px;
+}
+.home ul li a{
+color: white;
+font-family: Areal;
+font-weight: bold;
+transition: 0.4s ease-in-out;
+}
+.home ul li a:hover{
+color: orange;
+}
+.box{
+    width:470px ;
+    height: 680px;
+    background:rgba(0, 0, 0, 0.4) ;
+    position: absolute;
+    top: -50px;
+    left: 870px;
+    padding:0px;
+    text-align: center;
+    margin:0;
+    margin-top: 5%;
+    color: papayawhip;
+    font-family: 'Poppins',sans-serif1
+}
+.box-img{
+      border-radius:50%;
+      width: 200px;
+      height: 200px;
+}
+.box h1{
+    font-size: 80px;
+    letter-spacing: 4px;
+    font-weight: 120px;
+}
+.box h4{
+       font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 60px;
+
+}
+.box p{
+     text-align: justify;
+}
+ 
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+      display: inline-block;
+      margin: 6px;
+      list-style: none;
+}
+.box li a{
+      color: white;
+      text-decoration: none;
+      font-size: 60px;
+      transition: all ease-in-out;
+}
+.box li a: hover{
+    color: b9b9b9;
+}
+
+
+.glry{
+    width:470px ;
+    height: 680px;
+    background:rgba(0, 0, 0, 0.4) ;
+    position: absolute;
+    top: -17px;
+    left: 270px;
+    padding:0px;
+    text-align: center;
+    margin:0;
+    margin-top: 5%;
+    color: papayawhip;
+    font-family: 'Poppins',sans-serif1
+}
+ 
+ul{
+    margin: 0;
+    padding: 0;
+}
+.glry li{
+      display: inline-block;
+      margin: 3px;
+      list-style: none;
+}
+.glry li a{
+      color: blue;
+      text-decoration: none;
+      font-size: 70px;
+      transition: all ease-in-out;
+}
+.abt{
+    width:370px ;
+    height: 640px;
+    background:rgba(0, 0, 0, 0.4) ;
+    position: absolute;
+    top: -14px;
+    left: 70px;
+    padding:0px;
+    text-align: center;
+    margin:0;
+    margin-top: 5%;
+    color: papayawhip;
+    font-family: 'Poppins',sans-serif1
+}
+
+.hm{
+    width:370px ;
+    height: 640px;
+    background:rgba(0, 0, 0, 0.4) ;
+    position: absolute;
+    top: -14px;
+    left: 70px;
+    padding:0px;
+    text-align: center;
+    margin:0;
+    margin-top: 5%;
+    color: papayawhip;
+    font-family: 'Poppins',sans-serif1
+}
+ 
+ul{
+    margin: 0;
+    padding: 0;
+}
+.hm li{
+      display: inline-block;
+      margin: 3px;
+      list-style: none;
+}
+.hm li a{
+      color: blue;
+      text-decoration: none;
+      font-size: 70px;
+      transition: all ease-in-out;
+}
+
+
+
+
+.fb{
+    width:370px ;
+    height: 640px;
+    background:rgba(0, 0, 0, 0.4) ;
+    position: absolute;
+    top: -14px;
+    left: 495px;
+    padding:0px;
+    text-align: center;
+    margin:0;
+    margin-top: 5%;
+    color: papayawhip;
+    font-family: 'Poppins',sans-serif1
+}
+ 
+ul{
+    margin: 0;
+    padding: 0;
+}
+.fb li{
+      display: inline-block;
+      margin: 3px;
+      list-style: none;
+}
+.fb li a{
+      color: blue;
+      text-decoration: none;
+      font-size: 70px;
+      transition: all ease-in-out;
+}
+
+.cntct{
+    width:370px ;
+    height: 640px;
+    background:rgba(0, 0, 0, 0.4) ;
+    position: absolute;
+    top: -14px;
+    left: 495px;
+    padding:0px;
+    text-align: center;
+    margin:0;
+    margin-top: 5%;
+    color: papayawhip;
+    font-family: 'Poppins',sans-serif1
+}
+ 
+ul{
+    margin: 0;
+    padding: 0;
+}
+.cntct li{
+      display: inline-block;
+      margin: 3px;
+      list-style: none;
+}
+.cntct li a{
+      color: blue;
+      text-decoration: none;
+      font-size: 70px;
+      transition: all ease-in-out;
+}
+
+.srvc{
+    width:570px ;
+    height: 640px;
+    background:rgba(0, 0, 0, 0.4) ;
+    position: absolute;
+    top: -14px;
+    left: 155px;
+    padding:0px;
+    text-align: center;
+    margin:0;
+    margin-top: 5%;
+    color: papayawhip;
+    font-family: 'Poppins',sans-serif1
+}
+ 
+ul{
+    margin: 0;
+    padding: 0;
+}
+.srvc li{
+      display: inline-block;
+      margin: 3px;
+      list-style: none;
+}
+.srvc li a{
+      color: blue;
+      text-decoration: none;
+      font-size: 70px;
+      transition: all ease-in-out;
+}
+
